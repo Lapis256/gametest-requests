@@ -1,0 +1,10 @@
+{
+    "cSpell.words": ["gametest", "minecraft", "mojang"],
+    "editor.tabSize": 4,
+    "[javascript]": {
+        "editor.defaultFormatter": "dprint.dprint"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "dprint.dprint"
+    }
+}
